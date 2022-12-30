@@ -17,10 +17,10 @@
 ---
 
 ### About Me :
-- Data Analyst
-- Return my life around 180 degrees
-- Identify problems of your business
-- In my free time I do sports and read books                                                                                               
+- Data Analyst;
+- Identify problems of your business;
+- I check the behavior of metrics;                                                                                                
+- In my free time I do sports and travel.                                                                                              
                                                                                                 
 ---
 
