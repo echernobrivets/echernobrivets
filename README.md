@@ -3,7 +3,7 @@
   <h1 align="center">
   Hey there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     
-  This repository consists of basic knowledges about Data Analysis. 
+  This repositories consist of basic knowledges about Data Analysis. 
 </h1>
   
 </div> 
