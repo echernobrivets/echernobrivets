@@ -3,7 +3,7 @@
   <h1 align="center">
   Привет!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     
-  Этот репозиторий содержит пет-проекты и проектную деятельность во время обучения.
+  Этот репозиторий содержит пет-проекты и проектную деятельность.
 </h1>
   
 </div> 
@@ -24,7 +24,7 @@
                                                                                                 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Стек :
                                                                                                 
  <div>
   
