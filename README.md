@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif" width="150" height="150"/>
   <h1 align="center">
-  Hey there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Привет!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     
-  This repositories consist of basic knowledges about Data Analysis. 
+  Этот репозиторий содержит пет-проекты и проектную деятельность во время обучения.
 </h1>
   
 </div> 
@@ -16,11 +16,11 @@
                                                                                        
 ---
 
-### About Me :
-- Data Analyst;
-- Identify problems of your business;
-- I check the behavior of metrics;                                                                                                
-- In my free time I do sports and travel.                                                                                              
+### Обо мне:
+- Аналитик данных;
+- Нахожу проблемы вашего бизнеса;
+- Проверяю поведение метрик;                                                                                                
+- В свободное время играю в футбол и занимаюсь bjj.                                                                                              
                                                                                                 
 ---
 
