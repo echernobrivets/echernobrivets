@@ -45,7 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://fossies.org/linux/apache-airflow/docs/apache-airflow/img/logos/airflow_dark_bg.png" title="airflow" alt="airflow" width="40" height="40"/>&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/6/2/6/e/highres_488545198.jpeg" title="superset" alt="superset" width="60" height="40"/>&nbsp;
-  <img src="https://prana-system.com/files/gallery/509/big/clickhouse-preview-prana_1612860291.png" title="clickhouse" alt="clickhouse" width="60" height="40"/>&nbsp;
+  <img src="https://logojinni.com/image/logos/clickhouse.svg" title="clickhouse" alt="clickhouse" width="60" height="40"/>&nbsp;
   
   
 </div> 
