@@ -1,14 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif" width="150" height="150"/>;
-  <h1 align="center">
-  Привет!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <h2 align="left">
-  Спасибо, что посетили мою страницу! Здесь вы можете найти репозитории, которые содержат мои пет-проекты и проектную деятельность.
-   
-  </h2>
-  </div>
-
+  # Привет!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  # Спасибо, что посетили мою страницу! Здесь вы можете найти репозитории, которые содержат мои пет-проекты и проектную деятельность.
 
   ### Репозитории:
     - AB_test: покажет А/А симуляцию и проведение А/В теста с помощью различных методов тестирования;
@@ -49,6 +40,6 @@
   <img src="https://logojinni.com/image/logos/clickhouse.svg" title="clickhouse" alt="clickhouse" width="40" height="40"/>&nbsp;
   <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b1662d4ab6e2a4dc412cadb7bd2083d0/redash.png" title="redash" alt="redash" width="70" height="40"/>&nbsp;
   
-  
+   <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif" width="150" height="150"/>
   
 </div> 
