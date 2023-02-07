@@ -1,12 +1,17 @@
   <h2 align="center">
+  
   Привет!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  <div align="center">
+  Спасибо, что посетили мою страницу!
+  </div>
   </h2> 
 
-  Спасибо, что посетили мою страницу!
-  Здесь вы можете найти репозитории, содержащие мои пет-проекты и проектную деятельность.
-  
-  <h3 align="center">
+  Здесь вы можете найти репозитории, которые содержат мои пет-проекты и проектную деятельность.
+  <div align="center">
   <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif" width="120" height="120"/>
+    </div>
+  <h3 align="center">
+  
   </h3>
   Немного о себе:
   
