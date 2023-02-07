@@ -46,6 +46,6 @@
   <img src="https://fossies.org/linux/apache-airflow/docs/apache-airflow/img/logos/airflow_dark_bg.png" title="airflow" alt="airflow" width="40" height="40"/>&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/6/2/6/e/highres_488545198.jpeg" title="superset" alt="superset" width="60" height="40"/>&nbsp;
   <img src="https://logojinni.com/image/logos/clickhouse.svg" title="clickhouse" alt="clickhouse" width="40" height="40"/>&nbsp;
-  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b1662d4ab6e2a4dc412cadb7bd2083d0/redash.png" title="redash" alt="redash" width="40" height="40"/>&nbsp;
+  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b1662d4ab6e2a4dc412cadb7bd2083d0/redash.png" title="redash" alt="redash" width="60" height="40"/>&nbsp;
   
 </div> 
