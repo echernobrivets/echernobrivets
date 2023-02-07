@@ -1,7 +1,18 @@
-  # Привет!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  ## Спасибо, что посетили мою страницу! Здесь вы можете найти репозитории, которые содержат мои пет-проекты и проектную деятельность.
-  ## Немного о себе:
+  <h2 align="center">
+  Привет!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  </h2> 
+
+  Спасибо, что посетили мою страницу!
+  Здесь вы можете найти репозитории, содержащие мои пет-проекты и проектную деятельность.
+  
+  <h3 align="center">
+  <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif" width="120" height="120"/>
+  </h3>
+  Немного о себе:
+  
   На протяжении 5 лет работал по специальности, занимался аналитикой и составлением логистических цепочек. С середины 2022 года изучаю анализ данных. Закончил курсы Карпова "Аналитик Данных" и "Симулятор Аналитика" и теперь хочу применять свои теоретические знания на практике. Работаю в Python (Pandas, Numpy, Matplotlib), SQL (ClickHouse) владею на уровне оконных функций. Знаю зачем нужны А/В тесты и как их проводить. Понимаю что такое DAU, WAU, MAU, CTR, LTV, Retention и знаю как их вывести на дашборде в Superset. Решил сменить профессию, потому что в определенный момент понял, что достиг пика в сфере логистики, а мир, хранящий в себе данные - безграничен!
+  
+  
   
 
   ### Репозитории:
@@ -43,6 +54,6 @@
   <img src="https://logojinni.com/image/logos/clickhouse.svg" title="clickhouse" alt="clickhouse" width="40" height="40"/>&nbsp;
   <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b1662d4ab6e2a4dc412cadb7bd2083d0/redash.png" title="redash" alt="redash" width="70" height="40"/>&nbsp;
   
-   <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif" width="150" height="150"/>
+   
   
 </div> 
