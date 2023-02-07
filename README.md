@@ -47,7 +47,7 @@
   <img src="https://secure.meetupstatic.com/photos/event/6/2/6/e/highres_488545198.jpeg" title="superset" alt="superset" width="60" height="40"/>&nbsp;
   <img src="https://logojinni.com/image/logos/clickhouse.svg" title="clickhouse" alt="clickhouse" width="40" height="40"/>&nbsp;
   <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b1662d4ab6e2a4dc412cadb7bd2083d0/redash.png" title="redash" alt="redash" width="60" height="40"/>&nbsp;
-  <img src="https://www.kindpng.com/picc/m/20-204281_transparent-png-tableau-logo-png-download.png" title="tableau" alt="tableau" width="60" height="40"/>&nbsp;
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" title="tableau" alt="tableau" width="60" height="40"/>&nbsp;
   
   
 </div> 
