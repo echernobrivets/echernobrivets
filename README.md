@@ -46,12 +46,5 @@
   <div>
   <img src="https://user-images.githubusercontent.com/119677708/217239378-9d27198e-0043-4478-8e18-5c3ed5b4b870.jpg" width="415" height="300"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/119677708/217240242-388f8f57-fcf4-46aa-9314-6967191aaa8b.jpg" width="415" height="300"/>&nbsp;
-  
-Сертификаты доступны по ссылкам:
-   - https://lab.karpov.courses/certificate/f32b9c0c-85ea-4442-89d7-e9e023c7650a/
-   - https://stepik.org/cert/1894293
+ 
     </div> 
-   
-                                                                                                                                                                     
-                                                                                               
-
