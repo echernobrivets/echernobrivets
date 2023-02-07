@@ -43,7 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://ih1.redbubble.net/image.1580554474.7677/st,small,507x507-pad,600x600,f8f8f8.jpg" title="airflow" alt="airflow" width="40" height="40"/>&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/6/2/6/e/highres_488545198.jpeg" title="superset" alt="superset" width="60" height="40"/>&nbsp;
+  <img src="https://fossies.org/linux/apache-airflow/docs/apache-airflow/img/logos/airflow_dark_bg.png" title="airflow" alt="airflow" width="40" height="40"/>&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/6/2/6/e/highres_488545198.jpeg" title="superset" alt="superset" width="40" height="40"/>&nbsp;
   
 </div> 
