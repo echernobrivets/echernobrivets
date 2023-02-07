@@ -43,6 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://e7.pngegg.com/pngimages/421/298/png-clipart-smartphone-s-icon-google-s-logo-icons-logos-emojis-tech-companies.png" title="airflow" alt="airflow" width="40" height="40"/>&nbsp;
+  <img src="https://ih1.redbubble.net/image.1580554474.7677/st,small,507x507-pad,600x600,f8f8f8.jpg" title="airflow" alt="airflow" width="40" height="40"/>&nbsp;
   
 </div> 
