@@ -44,9 +44,10 @@
   ### :mortar_board: Сертификаты:
   
   <div>
-  <img src="https://user-images.githubusercontent.com/119677708/220056308-84fe8967-bbb9-4e8a-a82e-6a26a75b5185.jpg" width="415" height="300"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/119677708/224816147-f62ac7ae-71c8-408a-92a4-7cd0e2f5b34b.jpg" width="415" height="300"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/119677708/217239378-9d27198e-0043-4478-8e18-5c3ed5b4b870.jpg" width="415" height="300"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/119677708/220040791-e706e3fe-0376-411c-8033-20cc7bc65db7.jpg" width="415" height="300"/>&nbsp;
+
 
 
   </div> 
